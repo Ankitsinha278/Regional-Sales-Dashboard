@@ -1,6 +1,6 @@
 ## 🌍 Regional Sales Dashboard | Tableau
 This project presents a comprehensive and interactive Tableau dashboard designed to visualize and analyze regional sales performance across product sub-categories. The dashboard enables business users and analysts to explore customer and product dynamics, compare regional performance, and identify actionable insights to support sales strategy.
-![image alt](https://github.com/Ankitsinha278/Regional-Sales-Dashboard/blob/1170e5ed4268b8d122854a5249cfe00055820a1f/Regional%20Sales%20Analysis%20(End-%20project).pdf)
+ ![image alt](https://github.com/Ankitsinha278/Regional-Sales-Dashboard/blob/1170e5ed4268b8d122854a5249cfe00055820a1f/Regional%20Sales%20Analysis%20(End-%20project).pdf)
 
 ### 📌 Project Overview
 The Regional Sales Dashboard is built to compare Primary and Secondary markets using visually intuitive charts and interactive filters. It provides a comparative view of average sales, customer reach, and product distribution across different geographic segments.
